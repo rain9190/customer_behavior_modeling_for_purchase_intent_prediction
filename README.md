@@ -1,4 +1,4 @@
-# customer_behavior_modelling_for_purchase_intent_prediction
+# customer_behavior_modeling_for_purchase_intent_prediction
 The objective of this project is to understand and predict customer purchasing behavior on an e-commerce platform using session-level interaction data. Each data point represents a unique user session containing features such as time spent on site, pages viewed, cart value, and ad engagement. The goal is to classify whether a user made a purchase (1) or not (0) based on these behavioral signals.
 
 The analysis was conducted using Python, leveraging the following libraries and frameworks:
